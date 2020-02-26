@@ -1,0 +1,16 @@
+[
+{
+  "modid": "scalabledynamics",
+  "name": "Scalable Dynamics",
+  "description": "New fluid, energy, and item transport for your mods with a unique and scalably realistic take!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["its_meow"],
+  "credits": "its_meow: Design, Programming",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
